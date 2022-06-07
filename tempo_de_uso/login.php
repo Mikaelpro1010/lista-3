@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <form class="row g-3" action="verifica.php" method="GET">
+    <form class="row g-3" action="verifica_1.php" method="GET">
         <div class="row col-2 g-3 mx-auto">
         <label for="login" class="form-label">Informe o seu login:</label>
         <input type="text" name="login" id="login" class="form-control">
