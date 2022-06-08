@@ -11,10 +11,6 @@
     <title>Document</title>
 </head>
 <body>
-        <a href="cadastro.php">Cadastro</a>
-        <a href="proximas.php">Proximas Provas</a>
-        <a href="anteriores.php">Provas Anteriores</a>
-        <h1><?php echo $titulo; ?></h1>
         <?php
 }
 ?>
@@ -26,4 +22,3 @@
 <?php
 }
 ?>
-</html>
